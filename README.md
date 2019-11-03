@@ -1,2 +1,0 @@
-# GamerIsland
-Created with CodeSandbox
